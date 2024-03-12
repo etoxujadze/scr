@@ -1,0 +1,28 @@
+div {
+    width: 232px;
+    height: 297px;
+    top: 9px;
+    left: 8px;
+    border: 1px solid;
+    overflow-x: scroll;
+    color: #CCCCCC;
+    
+}
+@font-face {
+    font-family: "fonti";
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+p {
+    font-family: "fonti";
+    width: 1171px;
+    height: 30px;
+    top: 18px;
+    left: 12px;
+    font-weight: 12px;
+    line-height: 14.52px;
+    color: #000000;
+
+}
+.scrol {
+    border-radius: 10px;
+}
